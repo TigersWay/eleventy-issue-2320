@@ -1,0 +1,7 @@
+# Dependency files & directories (p/npm)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# This project specific files & directories
+public/
